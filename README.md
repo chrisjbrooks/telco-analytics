@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Under%20Construction-yellow)
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 # telco-analytics
